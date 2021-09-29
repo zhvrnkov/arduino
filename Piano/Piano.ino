@@ -1,6 +1,6 @@
 // run
-/* arduino-cli compile --fqbn arduino:avr:uno Blink &&  */
-/* arduino-cli upload -p /dev/ttyACM0 --fqbn arduino:avr:uno Blink */
+/* arduino-cli compile --fqbn arduino:avr:uno Piano &&  */
+/* arduino-cli upload -p /dev/ttyACM0 --fqbn arduino:avr:uno Piano */
 
 // debug serial
 // putty /dev/ttyACM0 -serial -sercfg 9600,8,n,1,N &g
