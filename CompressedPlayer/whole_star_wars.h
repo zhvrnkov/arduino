@@ -1,0 +1,18 @@
+int sampleRate = 50;
+int samples[] = {
+  NOTE_A4, 25, 0, 1, NOTE_A4, 25, 0, 1, NOTE_A4, 25, 0, 1, NOTE_F4, 17, 0, 1, NOTE_C5, 7,
+  0, 1, NOTE_A4, 25, 0, 1, NOTE_F4, 17, 0, 1, NOTE_C5, 7, 0, 1, NOTE_A4, 32, 0, 7,
+  NOTE_E5, 25, 0, 1, NOTE_E5, 25, 0, 1, NOTE_E5, 25, 0, 1, NOTE_F5, 17, 0, 1, NOTE_C5, 7,
+  0, 1, NOTE_GS4, 25, 0, 1, NOTE_F4, 17, 0, 1, NOTE_C5, 7, 0, 1, NOTE_A4, 32, 0, 7,
+  NOTE_A5, 25, 0, 1, NOTE_A4, 15, 0, 1, NOTE_A4, 7, 0, 1, NOTE_A5, 20, 0, 1, NOTE_GS5, 10,
+  0, 1, NOTE_G5, 10, 0, 1, NOTE_FS5, 6, 0, 1, NOTE_F5, 6, 0, 1, NOTE_FS5, 12, 0, 12,
+  NOTE_AS4, 12, 0, 1, NOTE_DS5, 20, 0, 1, NOTE_D5, 10, 0, 1, NOTE_CS5, 10, 0, 1, NOTE_C5,
+  6, 0, 1, NOTE_B4, 6, 0, 1, NOTE_C5, 12, 0, 12, NOTE_F4, 6, 0, 1, NOTE_GS4, 25, 0, 1,
+  NOTE_F4, 18, 0, 1, NOTE_A4, 6, 0, 1, NOTE_C5, 25, 0, 1, NOTE_A4, 18, 0, 1, NOTE_C5, 6,
+  0, 1, NOTE_E5, 32, 0, 1, NOTE_A5, 25, 0, 1, NOTE_A4, 15, 0, 1, NOTE_A4, 7, 0, 1,
+  NOTE_A5, 20, 0, 1, NOTE_GS5, 10, 0, 1, NOTE_G5, 10, 0, 1, NOTE_FS5, 6, 0, 1, NOTE_F5, 6,
+  0, 1, NOTE_FS5, 12, 0, 12, NOTE_AS4, 12, 0, 1, NOTE_DS5, 20, 0, 1, NOTE_D5, 10, 0, 1,
+  NOTE_CS5, 10, 0, 1, NOTE_C5, 6, 0, 1, NOTE_B4, 6, 0, 1, NOTE_C5, 12, 0, 12, NOTE_F4, 12,
+  0, 1, NOTE_GS4, 25, 0, 1, NOTE_F4, 18, 0, 1, NOTE_C5, 6, 0, 1, NOTE_A4, 25, 0, 1,
+  NOTE_F4, 18, 0, 1, NOTE_C5, 6, 0, 1, NOTE_A4, 32, 0, 1
+};
