@@ -2,7 +2,7 @@
 /* arduino-cli upload -p /dev/ttyACM0 --fqbn arduino:avr:uno Piano */
 
 #include "pitches.h"
-#include "silence.h"
+#include "starwars.h"
 
 const int SPEAKER = 10;
 
